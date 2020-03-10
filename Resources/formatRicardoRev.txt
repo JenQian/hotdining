@@ -6,6 +6,7 @@
      "lon" : -74.0065048
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Sushi Inoue",
 }, 
  
@@ -17,6 +18,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Dovetail",
 }, 
  
@@ -28,6 +30,7 @@
      "lon" : -73.9888503
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Cafe Boulud",
 }, 
  
@@ -39,6 +42,7 @@
      "lon" : -73.99766
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Jean-Georges",
 }, 
  
@@ -50,6 +54,7 @@
      "lon" : -73.98322
     } 
   }, 
+"michelin_stars" : "3",
 "name" : " Masa",
 }, 
  
@@ -61,6 +66,7 @@
      "lon" : -73.9105868339539
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Marea",
 }, 
  
@@ -72,6 +78,7 @@
      "lon" : -73.98789
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Daniel",
 }, 
  
@@ -83,6 +90,7 @@
      "lon" : -73.98499
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Torishin",
 }, 
  
@@ -94,6 +102,7 @@
      "lon" : -73.99766
     } 
   }, 
+"michelin_stars" : "3",
 "name" : " Le Bernardin",
 }, 
  
@@ -105,6 +114,7 @@
      "lon" : -73.99766
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " The Modern",
 }, 
  
@@ -116,6 +126,7 @@
      "lon" : -73.9780961338684
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Aquavit",
 }, 
  
@@ -127,6 +138,7 @@
      "lon" : -73.98469
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Caviar Russe",
 }, 
  
@@ -138,6 +150,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Satsuki (Suzuki’s sushi bar)",
 }, 
  
@@ -149,6 +162,7 @@
      "lon" : -73.98322
     } 
   }, 
+"michelin_stars" : "3",
 "name" : " Chef's Table at Brooklyn Fare",
 }, 
  
@@ -160,6 +174,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Aureole",
 }, 
  
@@ -171,6 +186,7 @@
      "lon" : -73.9780961338684
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Gabriel Kreuther",
 }, 
  
@@ -182,6 +198,7 @@
      "lon" : -73.98589
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Sushi Ginza Onodera",
 }, 
  
@@ -193,6 +210,7 @@
      "lon" : -73.9900618
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Sushi Amane",
 }, 
  
@@ -204,6 +222,7 @@
      "lon" : -74.00167
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Sushi Yasuda",
 }, 
  
@@ -215,6 +234,7 @@
      "lon" : -73.99467
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Ai Fiori",
 }, 
  
@@ -226,6 +246,7 @@
      "lon" : -73.9819464127197
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Café China",
 }, 
  
@@ -237,6 +258,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Kajitsu",
 }, 
  
@@ -248,6 +270,7 @@
      "lon" : -73.97759
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Tempura Matsui",
 }, 
  
@@ -259,6 +282,7 @@
      "lon" : -73.952815
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Ushiwakamaru",
 }, 
  
@@ -270,6 +294,7 @@
      "lon" : -73.98666
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " The Breslin",
 }, 
  
@@ -281,6 +306,7 @@
      "lon" : -73.98904
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " The NoMad Restaurant",
 }, 
  
@@ -292,6 +318,7 @@
      "lon" : -73.9105868339539
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Del Posto",
 }, 
  
@@ -303,6 +330,7 @@
      "lon" : -73.9515007
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Casa Enrique",
 }, 
  
@@ -314,6 +342,7 @@
      "lon" : -73.98666
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Junoon",
 }, 
  
@@ -325,6 +354,7 @@
      "lon" : -73.983933
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " La Sirena",
 }, 
  
@@ -336,6 +366,7 @@
      "lon" : -73.980508
     } 
   }, 
+"michelin_stars" : "3",
 "name" : " Eleven Madison Park",
 }, 
  
@@ -347,6 +378,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " The Clocktower",
 }, 
  
@@ -358,6 +390,7 @@
      "lon" : -73.984441
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Cote Korean Steakhouse",
 }, 
  
@@ -369,6 +402,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Rouge Tomate Chelsea",
 }, 
  
@@ -380,6 +414,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Gunter Seeger NY",
 }, 
  
@@ -391,6 +426,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " ALDEA",
 }, 
  
@@ -402,6 +438,7 @@
      "lon" : -73.993781
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Gramercy Tavern",
 }, 
  
@@ -413,6 +450,7 @@
      "lon" : -73.9983369619683
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Casa Mono",
 }, 
  
@@ -424,6 +462,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Wallsé",
 }, 
  
@@ -435,6 +474,7 @@
      "lon" : -73.99344
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Gotham Bar and Grill",
 }, 
  
@@ -446,6 +486,7 @@
      "lon" : -73.99444
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Nix",
 }, 
  
@@ -457,6 +498,7 @@
      "lon" : -73.999852
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Babbo",
 }, 
  
@@ -468,6 +510,7 @@
      "lon" : -73.979004
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Blue Hill",
 }, 
  
@@ -479,6 +522,7 @@
      "lon" : -73.98589
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Kanoyama",
 }, 
  
@@ -490,6 +534,7 @@
      "lon" : -73.98271
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Minetta Tavern",
 }, 
  
@@ -501,6 +546,7 @@
      "lon" : -73.952815
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Sushi Zo",
 }, 
  
@@ -512,6 +558,7 @@
      "lon" : -73.960288
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Carbone",
 }, 
  
@@ -523,6 +570,7 @@
      "lon" : -73.98666
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " ZZ's Clam Bar",
 }, 
  
@@ -534,6 +582,7 @@
      "lon" : -74.00167
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Jewel Bako",
 }, 
  
@@ -545,6 +594,7 @@
      "lon" : -73.97692
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Kyo Ya",
 }, 
  
@@ -556,6 +606,7 @@
      "lon" : -73.9904247969389
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Momofuku Ko",
 }, 
  
@@ -567,6 +618,7 @@
      "lon" : -74.00167
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Hirohisa",
 }, 
  
@@ -578,6 +630,7 @@
      "lon" : -74.007227
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " The Musket Room",
 }, 
  
@@ -589,6 +642,7 @@
      "lon" : -73.957576
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Rebelle",
 }, 
  
@@ -600,6 +654,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Uchu",
 }, 
  
@@ -611,6 +666,7 @@
      "lon" : -73.9860613
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Uncle Boons",
 }, 
  
@@ -622,6 +678,7 @@
      "lon" : -74.05147
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Contra",
 }, 
  
@@ -633,6 +690,7 @@
      "lon" : -73.409301
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Bâtard",
 }, 
  
@@ -644,6 +702,7 @@
      "lon" : -73.99069
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Jungsik",
 }, 
  
@@ -655,6 +714,7 @@
      "lon" : -73.959077
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Delaware and Hudson",
 }, 
  
@@ -666,6 +726,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Atera",
 }, 
  
@@ -677,6 +738,7 @@
      "lon" : -73.9780961338684
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Aska",
 }, 
  
@@ -688,6 +750,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " L'Appart",
 }, 
  
@@ -699,6 +762,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Meadowsweet",
 }, 
  
@@ -710,6 +774,7 @@
      "lon" : -73.94767
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Peter Luger Steak House",
 }, 
  
@@ -721,6 +786,7 @@
      "lon" : -74.0266559830585
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Faro",
 }, 
  
@@ -732,6 +798,7 @@
      "lon" : -73.98652
     } 
   }, 
+"michelin_stars" : "2",
 "name" : " Blanca",
 }, 
  
@@ -743,6 +810,7 @@
      "lon" : -73.965905
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " The River Café",
 }, 
  
@@ -754,6 +822,7 @@
      "lon" : -73.99429321289062
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " La Vara",
 }, 
  
@@ -765,6 +834,7 @@
      "lon" : -73.98271
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " The Finch",
 }, 
  
@@ -776,6 +846,7 @@
      "lon" : -73.99766
     } 
   }, 
+"michelin_stars" : "3",
 "name" : " Per Se",
 }, 
  
@@ -787,5 +858,6 @@
      "lon" : -73.9780961338684
     } 
   }, 
+"michelin_stars" : "1",
 "name" : " Agern",
 }, 
