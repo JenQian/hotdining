@@ -16,6 +16,7 @@ import functools
 import operator
 from datetime import date
 import time
+from flask_cors import CORS
 #################################################
 # Database Setup
 #################################################
@@ -33,7 +34,7 @@ Restaurant = Base.classes.restaurants
 # Flask Setup
 #################################################
 app = Flask(__name__)
-
+CORS(app)
 
 
 
@@ -102,28 +103,28 @@ def available_times():
 
                     return times, current_url
 
-                elif platform == 'OpenTable':
-                    executable_path = {'executable_path': '/Users/jeqian/Documents/DA Bootcamp/CU-NYC-DATA-PT-10-2019-U-C/chromedriver'}
-                    browser = Browser('chrome', **executable_path, headless=True,user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36")
-                    name = name.lower()
-                    res_name = name.replace(' ', '-')
-                    base_url = 'https://www.opentable.com'
+                #elif platform == 'OpenTable':
+                    #executable_path = {'executable_path': '/Users/jeqian/Documents/DA Bootcamp/CU-NYC-DATA-PT-10-2019-U-C/chromedriver'}
+                    #browser = Browser('chrome', **executable_path, headless=True,user_agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36")
+                    #name = name.lower()
+                    #res_name = name.replace(' ', '-')
+                    #base_url = 'https://www.opentable.com'
                     #other_parts = '?avt=eyJ2IjoxLCJtIjoxLCJwIjowfQ&corrid=ad4842b8-9fbf-4a79-846f-4c6b7a43f4fd&p=2&sd='
                     #end = '+20%3A00'
                     #op_url = base_url+res_name+other_parts+today+end
-                    op_url = base_url+res_name
+                    #op_url = base_url+res_name
                     #op_url = 'https://www.opentable.com/r/catch-steak-maritime-hotel-new-york?avt=eyJ2IjoxLCJtIjoxLCJwIjowfQ&corrid=ad4842b8-9fbf-4a79-846f-4c6b7a43f4fd&p=2&sd=2020-03-14+20%3A00'
-                    browser.visit(op_url)
-                    browser.find_by_text('Find a Table').first.click()
-                    r = requests.get(browser.url)
-                    current_url = browser.url
-                    print(op_url)
+                    #browser.visit(op_url)
+                    #browser.find_by_text('Find a Table').first.click()
+                    #r = requests.get(browser.url)
+                    #current_url = browser.url
+                    #print(op_url)
                     #op_html = browser.html
-                    op_soup = BeautifulSoup(r.text, 'html.parser')
-                    times = [times.text for times in op_soup.find_all(class_='f2cc84a2')[0].find_all("span")]
+                    #op_soup = BeautifulSoup(r.text, 'html.parser')
+                    #times = [times.text for times in op_soup.find_all(class_='f2cc84a2')[0].find_all("span")]
                     #if
                       # 
-                    return times, current_url
+                    #return times, current_url
                
                 else:      
                     times = 'Not Available'
@@ -134,7 +135,7 @@ def available_times():
 
           times, current_url = check_avail(name,today,platform)
 
-          available_times.append([name, today, times,  star, full_address, description, current_url])
+          available_times.append([name, today, times, platform, star, full_address, description, current_url])
 
     return jsonify(available_times)
 
